@@ -13,16 +13,6 @@ p{
 div{
 	font-size: 20px;
 	color: red;
-	-webkit-animation-name: color;
-	-webkit-animation-duration:5s;
-	-webkit-animation-iteration-count: infinite;
+	text-align: center;
 }
 
-@webkit-keyframes color{
-	0%{color:red;}
-	25%{color:blue;}
-	50%{color:green;}
-	75%{color:orange;}
-	100%{color:red;}
-
-}
